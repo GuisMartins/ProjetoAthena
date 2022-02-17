@@ -36,7 +36,7 @@ Nós habilitamos nossas alunas a superarem os maiores desafios da era digital, a
 <h2>Links</h2>
 
 <h3>Site</h3>
-https://projetoathena.azurewebsites.net/
+http://projetoathena.tk
 
 <h3>Video Demo</h3>
 https://www.youtube.com/watch?v=AOWFAFRiwIQ&feature=youtu.be&ab_channel=GuilhermeSilvaMartins
