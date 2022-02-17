@@ -39,7 +39,7 @@ Nós habilitamos nossas alunas a superarem os maiores desafios da era digital, a
 http://projetoathena.tk
 
 <h3>Video Demo</h3>
-https://www.youtube.com/watch?v=AOWFAFRiwIQ&feature=youtu.be&ab_channel=GuilhermeSilvaMartins
+https://youtu.be/vJPScJv27h8
 
 <h3>Apresentação</h3>
 https://www.canva.com/design/DAE0_9jAz3k/a8EyOwssR2-TDjyvXBSw6g/view
